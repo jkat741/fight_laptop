@@ -12,6 +12,29 @@ package com.mycompany.slagsmol_spel;
 public class Slagsmol_spel {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+            System.out.println("Hello World!");
+        int heltal=20;
+        double dectal = 20.04;
+        char tecken = '!';
+        boolean sant = true;
+        boolean falskt =false;
+        String text = "halloj";
+        System.out.println("Text :"+text);
+        String te = "kdsalökdda";
+        
+        
+        if(heltal==19)
+        {
+            System.out.println("Heltal är 19");
+        }
+        else if(heltal==18)
+        {
+            System.out.println("Heltal är 18");
+        }
+        else
+        {
+            System.out.println("Heltal är INTE 18 eller 19");
+        }
+    
     }
 }
