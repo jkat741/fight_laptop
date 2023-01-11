@@ -13,8 +13,7 @@ public class Slagsmol_spel {
 
     public static void main(String[] args) {
             System.out.println("Hello World!");
-        int heltal=20;
-        double dectal = 20.04;
+        int heltal=22;
         char tecken = '!';
         boolean sant = true;
         boolean falskt =false;
